@@ -1,6 +1,6 @@
-import { Box, Container, Grid } from '@material-ui/core';
-import Identity from "../src/components/Identity";
 import React from 'react';
+import { Box, Container, Grid } from '@material-ui/core';
+import Identity from "./components/Identity";
 
 class App extends React.Component {
   render() {
